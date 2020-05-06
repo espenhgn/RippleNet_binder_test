@@ -20,6 +20,7 @@ These codes can be downloaded using git (www.git-scm.com):
 - `python>=3`
 - `numpy`
 - `scipy`
+- `ipympl`
 - `matplotlib`
 - `h5py`
 - `pandas`
